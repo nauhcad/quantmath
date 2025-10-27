@@ -1,5 +1,10 @@
 # quantmath
+## Setup
+1. Setup `.venv` using `python -m venv .venv`
+2. Activate: `source .venv/Scripts/activate`
+3. Install: `pip install -r requirements.txt`
 
+## Running Things
 1. Run test_metrics.py normally
     - In your root directory: `python -m tests.test_metrics`
     - Why it didn't work during the day: 
